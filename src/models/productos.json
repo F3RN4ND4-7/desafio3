@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Varita mágica de Harry Potter",
+      "description": "Réplica exacta de la varita utilizada por Harry Potter en las películas.",
+      "price": 500,
+      "img": "varita.jpg",
+      "code": "hp001",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "title": "Bufanda de Gryffindor",
+      "description": "Bufanda de lana con los colores y el escudo de la casa Gryffindor.",
+      "price": 350,
+      "img": "bufanda.jpg",
+      "code": "hp002",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "title": "Capa de invisibilidad",
+      "description": "Una réplica de la famosa capa de invisibilidad que perteneció a los Potter.",
+      "price": 1000,
+      "img": "capa.jpg",
+      "code": "hp003",
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "title": "Libro de pociones avanzadas",
+      "description": "Un libro con las mejores y más complejas recetas de pociones mágicas.",
+      "price": 300,
+      "img": "libro_pociones.jpg",
+      "code": "hp004",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "title": "Figura de acción de Hermione Granger",
+      "description": "Una figura articulada de Hermione Granger, la inteligente amiga de Harry Potter.",
+      "price": 200,
+      "img": "figura_hermione.jpg",
+      "code": "hp005",
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "title": "Bola de cristal de la profesora Trelawney",
+      "description": "Una réplica de la bola de cristal utilizada por la profesora Trelawney para predecir el futuro.",
+      "price": 450,
+      "img": "bola_cristal.jpg",
+      "code": "hp006",
+      "stock": 12
+    },
+    {
+      "id": 7,
+      "title": "Taza de la casa Slytherin",
+      "description": "Una taza con el emblema y los colores de la casa Slytherin.",
+      "price": 150,
+      "img": "taza_slytherin.jpg",
+      "code": "hp007",
+      "stock": 18
+    },
+    {
+      "id": 8,
+      "title": "Cerveza de mantequilla",
+      "description": "Una botella de la famosa cerveza de mantequilla que se sirve en el Callejón Diagon.",
+      "price": 100,
+      "img": "cerveza_mantequilla.jpg",
+      "code": "hp008",
+      "stock": 40
+    },
+    {
+      "id": 9,
+      "title": "Reloj de la familia Weasley",
+      "description": "Un reloj mágico que indica la ubicación de cada miembro de la familia Weasley.",
+      "price": 800,
+      "img": "reloj_weasley.jpg",
+      "code": "hp009",
+      "stock": 8
+    },
+    {
+      "id": 10,
+      "title": "Bálsamo de flu",
+      "description": "Un frasco de bálsamo de flu para viajar rápidamente por la red de chimeneas mágicas.",
+      "price": 600,
+      "img": "balsamo_flu.jpg",
+      "code": "hp010",
+      "stock": 22
+    }
+]

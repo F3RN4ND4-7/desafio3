@@ -1,0 +1,19 @@
+{
+  "name": "desafio3",
+  "version": "1.0.0",
+  "description": "El desarrollo de este servidor Express ofrece una solución eficaz y escalable para la gestión y consulta de productos, permitiendo una integración sencilla con cualquier aplicación cliente que requiera acceso a esta información.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
